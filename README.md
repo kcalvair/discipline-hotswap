@@ -1,6 +1,8 @@
 # DISCIPLINE V2
 
-**65% keyboard assembled with only through hole components, including usb type-c**
+**65% keyboard assembled with only through hole components*, including usb type-c**
+
+*All through hole with the exception of surface mount Kailh Hotswap Sockets because I'm indecisive.
 
 **[LICENSE](LICENSE)**
 
